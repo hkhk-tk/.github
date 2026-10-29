@@ -5,6 +5,7 @@
 **Haapsalu Kutsehariduskeskuse IT-täienduskoolitused**
 
 Praktilised kursused süsteemiadministraatoritele ja IT-taristu haldajatele.
+Kursused ja registreerimine: [hkhk.edu.ee/et/koolitused](https://www.hkhk.edu.ee/et/koolitused)
 Iga kursus on üles ehitatud laborite ümber: teed tööülesandeid oma virtuaalmasinates.
 
 </div>
@@ -30,6 +31,6 @@ Kursuste materjalid on avatud litsentsiga [CC BY-SA 4.0](https://creativecommons
 
 <div align="center">
 
-[Haapsalu Kutsehariduskeskus](https://www.hkhk.edu.ee)
+[Haapsalu Kutsehariduskeskus](https://www.hkhk.edu.ee) · [Täienduskoolitused](https://www.hkhk.edu.ee/et/koolitused)
 
 </div>
