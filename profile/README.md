@@ -29,6 +29,12 @@ Iga kursus on üles ehitatud laborite ümber: teed tööülesandeid oma virtuaal
 
 Kursuste materjalid on avatud litsentsiga [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.et), kui materjalis pole öeldud teisiti.
 
+### 🇬🇧 In English
+
+**HKHK Adult Education** · IT continuing education at Haapsalu Vocational Education Centre, Estonia.
+Hands-on courses for system administrators and IT infrastructure staff: each course is built around labs on your own virtual machines (Proxmox), with automated feedback in GitHub Classroom 50. Courses are taught in Estonian.
+Course list and registration: [hkhk.edu.ee/et/koolitused](https://www.hkhk.edu.ee/et/koolitused)
+
 <div align="center">
 
 [Haapsalu Kutsehariduskeskus](https://www.hkhk.edu.ee) · [Täienduskoolitused](https://www.hkhk.edu.ee/et/koolitused)
