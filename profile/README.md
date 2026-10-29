@@ -2,6 +2,8 @@
 
 # HKHK täiskasvanute koolitus
 
+🇪🇪 **Eesti** · 🇬🇧 [English](#english)
+
 **Haapsalu Kutsehariduskeskuse IT-täienduskoolitused**
 
 Praktilised kursused süsteemiadministraatoritele ja IT-taristu haldajatele.
@@ -28,6 +30,8 @@ Iga kursus on üles ehitatud laborite ümber: teed tööülesandeid oma virtuaal
 ### 📖 Litsents
 
 Kursuste materjalid on avatud litsentsiga [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.et), kui materjalis pole öeldud teisiti.
+
+<a id="english"></a>
 
 ### 🇬🇧 In English
 
